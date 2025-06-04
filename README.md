@@ -8,7 +8,8 @@ A modern, AI-powered grocery checkout system that uses computer vision to automa
 
 ## 🎥 Demo
 
-https://github.com/SripadhiDeekshith/GroceryCheckoutSystem/blob/main/demo.mp4
+
+https://github.com/user-attachments/assets/a1826305-74ac-4127-80e9-2307c96ec50c
 
 > Note: The demo video shows slower processing due to CPU-only execution. Performance significantly improves with GPU acceleration.
 
