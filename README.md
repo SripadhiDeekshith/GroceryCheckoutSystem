@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/4761b685-5a0b-4f8e-860d-2448492988e0
 
 1. Clone the repository:
 ```bash
-git clone   git clone https://github.com/SripadhiDeekshith/GroceryCheckoutSystem.git
+git clone https://github.com/SripadhiDeekshith/GroceryCheckoutSystem.git
 
 cd GroceryCheckoutSystem
 ```
